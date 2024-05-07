@@ -1,4 +1,5 @@
 # HyperBot-Research
+![Hyperbotresearch](https://github.com/HyperBot-Research/HyperBot-Research/assets/35432495/b4b09be9-2e43-40aa-8849-e6f75e7a33f6)
 
 # Company Name: HyperBot Research
 
