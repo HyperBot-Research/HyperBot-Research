@@ -7,7 +7,8 @@
 HyperBot Research is a cutting-edge technology company specializing in advanced robotics and artificial intelligence solutions. Established at the forefront of innovation, HyperBot Research is dedicated to pushing the boundaries of what is possible in the fields of robotics, automation, and AI.
 
 # Mission:
-Our mission at HyperBot Research is to revolutionize industries through the development and implementation of intelligent robotic systems. We strive to create solutions that enhance efficiency, productivity, and safety across various sectors, from manufacturing and logistics to healthcare and beyond.
+Our mission at HyperBot Research is to revolutionize industries through the development and implementation of intelligent robotic systems. We strive to create solutions that enhance efficiency, productivity, and safety across various sectors, from manufacturing and logistics to healthcare and beyond. 
+We aim to create innovative solutions that enhance efficiency, productivity, and safety across diverse sectors
 
 # Key Focus Areas:
 * __Advanced Robotics:__ <br> HyperBot Research designs and manufactures state-of-the-art robotic platforms equipped with advanced sensors, actuators, and machine learning algorithms. These robots are engineered to perform complex tasks autonomously or collaboratively with humans in dynamic environments.
